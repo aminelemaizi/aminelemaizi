@@ -49,8 +49,8 @@
 
     <!-- $ ./ship now -->
     <text x="40" y="229" clip-path="url(#c5)"><tspan fill="#3fb950">amine@lemaizi</tspan><tspan fill="#58a6ff"> ~</tspan><tspan fill="#8b949e"> %</tspan><tspan fill="#e6edf3"> ./ship --now</tspan></text>
-    <text x="40" y="255" clip-path="url(#c6)"><tspan fill="#bc8cff">→ </tspan><tspan fill="#e6edf3">Coded Flows</tspan><tspan fill="#8b949e"> — visual Python workflow platform</tspan></text>
-    <text x="40" y="281" clip-path="url(#c7)"><tspan fill="#bc8cff">→ </tspan><tspan fill="#e6edf3">freelance</tspan><tspan fill="#8b949e"> — ML infrastructure, models &amp; training</tspan></text>
+    <text x="40" y="255" clip-path="url(#c6)"><tspan fill="#bc8cff">→ </tspan><tspan fill="#e6edf3">end-to-end ML</tspan><tspan fill="#8b949e"> — framing, models &amp; infrastructure</tspan></text>
+    <text x="40" y="281" clip-path="url(#c7)"><tspan fill="#bc8cff">→ </tspan><tspan fill="#e6edf3">freelance &amp; training</tspan><tspan fill="#8b949e"> — GCP · ML · MLOps</tspan></text>
     <text x="40" y="307" clip-path="url(#c8)"><tspan fill="#bc8cff">→ </tspan><tspan fill="#8b949e">fewer slide decks, more shipped systems </tspan><tspan fill="#3fb950">✓</tspan></text>
 
     <!-- final prompt + blinking cursor -->

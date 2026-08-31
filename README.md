@@ -20,29 +20,26 @@
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="300">
 <br>
-<h3>🔭</h3>
-<b><samp>build</samp></b>
-<br><br>
-<sub>Founder of <b>Coded Flows</b> — a visual Python workflow platform with reusable code bricks & AI-assisted code generation</sub>
-<br><br>
+<h1>⚙️</h1>
+<h3><samp>ship</samp></h3>
+<p>A decade wherever <b>data creates leverage</b> — from statistical modeling & forecasting to production-grade ML systems.</p>
+<br>
 </td>
-<td align="center" width="33%">
+<td align="center" width="300">
 <br>
-<h3>⚙️</h3>
-<b><samp>ship</samp></b>
-<br><br>
-<sub>A decade wherever <b>data creates leverage</b> — from statistical modeling to production-grade ML systems & the infra that keeps them running</sub>
-<br><br>
+<h1>☁️</h1>
+<h3><samp>run</samp></h3>
+<p>Designing the <b>ML infrastructure</b> that keeps models alive in production — MLOps & GCP, the full lifecycle.</p>
+<br>
 </td>
-<td align="center" width="33%">
+<td align="center" width="300">
 <br>
-<h3>✍️</h3>
-<b><samp>write & teach</samp></b>
-<br><br>
-<sub>Blogging about <b>AI, data & indie hacking</b> at <a href="https://lemaizi.com">lemaizi.com</a> · training teams on GCP, ML & MLOps</sub>
-<br><br>
+<h1>✍️</h1>
+<h3><samp>write & teach</samp></h3>
+<p>Blogging about <b>AI, data & indie hacking</b> at <a href="https://lemaizi.com">lemaizi.com</a> — training teams on GCP, ML & MLOps.</p>
+<br>
 </td>
 </tr>
 </table>
@@ -68,15 +65,6 @@
 </div>
 
 <br>
-
-<!-- ── contribution snake · uncomment after the GitHub Action has run once ──
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aminelemaizi/aminelemaizi/output/snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/aminelemaizi/aminelemaizi/output/snake.svg" alt="contribution snake"/>
-</picture>
-</div>
-─────────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
