@@ -20,26 +20,13 @@
 
 <table>
 <tr>
-<td align="center" width="300">
-<br>
-<h1>⚙️</h1>
-<h3><samp>ship</samp></h3>
-<p>A decade wherever <b>data creates leverage</b> — from statistical modeling & forecasting to production-grade ML systems.</p>
-<br>
+<td align="center" width="450">
+<h3><samp>build</samp></h3>
+<p>ML infrastructure that keeps models running in production. Full lifecycle: frame the problem, build the model, ship the system. GCP & MLOps.</p>
 </td>
-<td align="center" width="300">
-<br>
-<h1>☁️</h1>
-<h3><samp>run</samp></h3>
-<p>Designing the <b>ML infrastructure</b> that keeps models alive in production — MLOps & GCP, the full lifecycle.</p>
-<br>
-</td>
-<td align="center" width="300">
-<br>
-<h1>✍️</h1>
+<td align="center" width="450">
 <h3><samp>write & teach</samp></h3>
-<p>Blogging about <b>AI, data & indie hacking</b> at <a href="https://lemaizi.com">lemaizi.com</a> — training teams on GCP, ML & MLOps.</p>
-<br>
+<p>Writing about ML, data and indie hacking at <a href="https://lemaizi.com">lemaizi.com</a>. Training teams on GCP, ML and MLOps.</p>
 </td>
 </tr>
 </table>
@@ -70,7 +57,7 @@
 
 <samp>open to freelance missions · ML infrastructure · training engagements</samp>
 
-<br><br>
+<br>
 
 <a href="https://lemaizi.com/contact"><img src="https://img.shields.io/badge/contact__me()-→-0d1117?style=for-the-badge&labelColor=161b22&color=3fb950"/></a>
 
