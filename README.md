@@ -8,7 +8,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/alemaizi"><img src="https://img.shields.io/badge/linkedin-alemaizi-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22"/></a>
 &nbsp;
-<a href="https://x.com/alemaizi"><img src="https://img.shields.io/badge/x-@alemaizi-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff&labelColor=161b22"/></a>
+<a href="https://x.com/alemaizi"><img src="https://img.shields.io/badge/@alemaizi-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff&labelColor=161b22"/></a>
 
 </div>
 
