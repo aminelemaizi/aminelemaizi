@@ -21,11 +21,11 @@
 <table>
 <tr>
 <td align="center" width="450">
-<h3><samp>build</samp></h3>
+<div style="height: 28px;"><h3><samp>build</samp></h3></div>
 <p>ML infrastructure that keeps models running in production. Full lifecycle: frame the problem, build the model, ship the system. GCP & MLOps.</p>
 </td>
 <td align="center" width="450">
-<h3><samp>write & teach</samp></h3>
+<div style="height: 28px;"><h3><samp>write & teach</samp></h3></div>
 <p>Writing about ML, data and indie hacking at <a href="https://lemaizi.com">lemaizi.com</a>. Training teams on GCP, ML and MLOps.</p>
 </td>
 </tr>
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<samp>open to freelance missions · ML infrastructure · training engagements</samp>
+<h4><samp>open to freelance missions · ML infrastructure · training engagements</samp></h4>
 
 <br>
 
